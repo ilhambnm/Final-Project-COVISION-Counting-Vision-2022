@@ -1,4 +1,4 @@
-# project-akhir-orbit-co-vision
+# project-akhir-orbit-co-vision-2022
 Tracking and Counting Vehicles using yolov5 and DeepSort
 
 1. Sebelumnya, cloning repo : git clone https://github.com/pac3010/project-akhir-orbit-co-vision.git
